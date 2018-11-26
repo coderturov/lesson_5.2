@@ -23,23 +23,23 @@ let start = document.getElementById("start"),
 
 
     console.log(start);
-    console.log(budgetVal);
-    console.log(dayBudgetVal);
-    console.log(levelVal);
-    console.log(expenVal);
-    console.log(optExpenVal);
-    console.log(incomeVal);
-    console.log(monthsavVal);
-    console.log(yearsavVal);
+    console.log(budgetVal[0]);
+    console.log(dayBudgetVal[0]);
+    console.log(levelVal[0]);
+    console.log(expenVal[0]);
+    console.log(optExpenVal[0]);
+    console.log(incomeVal[0]);
+    console.log(monthsavVal[0]);
+    console.log(yearsavVal[0]);
     console.log(inputExpen);
     console.log(expItemBtn);
     console.log(optExpBtn);
     console.log(countBtn);
     console.log(optExpItem);
-    console.log(chooseIncome);
-    console.log(savings);
+    console.log(chooseIncome[0]);
+    console.log(savings[0]);
     console.log(chooseSum);
-    console.log(percent);
-    console.log(year);
-    console.log(month);
-    console.log(day);
+    console.log(percent[0]);
+    console.log(year[0]);
+    console.log(month[0]);
+    console.log(day[0]);
